@@ -7,7 +7,7 @@ experience that blends fast action with strategic thinking. Players
 burst bubbles to reveal letters and then form valid words to progress
 through stages.
 
-## ✨ Features
+##  Features
 
 -   Dynamic bubble-bursting gameplay\
 -   Word formation with real-time validation\
@@ -15,19 +15,19 @@ through stages.
 -   Integrated sound effects and background audio\
 -   Clear two-stage progression system
 
-## 🛠 Technologies Used
+## Technologies Used
 
 -   **Language:** C\
 -   **Libraries:** SDL2, SDL_image, SDL_mixer, SDL_ttf\
 -   **IDE:** Visual Studio Code
 
-## 🎮 How to Play
+##  How to Play
 
 1.  Click on bubbles to burst them and reveal letters.\
 2.  Use the collected letters to form valid words.\
 3.  Complete the required words to move to the next stage.
 
-## 📁 Project Structure
+## Project Structure
 
     /SpellBurst
     │── main.c
@@ -40,14 +40,14 @@ through stages.
     │     ├── fonts/
     │     └── valid_words.txt
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 -   Additional level types and challenges\
 -   Power-ups and boosters\
 -   Multiplayer mode\
 -   Advanced word puzzles
 
-## 👥 Team
+## Team
 
 Developed as a BCA Mini Project under the guidance of **Ms. Varsha
 Ganesh**,\
